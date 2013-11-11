@@ -9,6 +9,8 @@ To be used with stylish.
 
 It's using the font cure.se so please download it before trying this skin.
 
+If you want options such as auto 1080p/720p, hiding annotations and hiding video controls I would suggest that you get [YouTube HD Lite Revived](https://userscripts.org/scripts/show/124528)
+
 Quick overview
 ==========
 
