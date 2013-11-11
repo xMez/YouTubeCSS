@@ -1,0 +1,473 @@
+@-moz-document url-prefix(http://www.youtube.com/watch),
+url-prefix(https://www.youtube.com/watch)
+{
+    /* COLORS & FONTS */
+    html {
+        background: #2d2d2d !important;
+    }
+    #body {
+        background: #222222 !important;
+    }
+    #watch7-main {
+        background: #222222 !important;
+    }
+    #yt-masthead-container {
+        background: #2d2d2d !important;
+        border: none !important;
+    }
+    #masthead-search-terms {
+        background: #222222 !important;
+        border-color: #222222 !important;
+        box-shadow: none !important;
+    }
+    .yt-uix-button-group .start, .yt-uix-button-group .end {
+        background: #222222 !important;
+        border-radius: 0px !important;
+        border-color: #222222 !important;
+    }
+    #guide-container {
+        background: #222222 !important;
+    }
+    #watch7-content {
+        background: #222222 !important;
+    }
+    #watch7-headline {
+        background: #222222 !important;
+        padding-right: 18px !important;
+        border-left: 1px solid #2d2d2d !important;
+        border-right: 1px solid #2d2d2d !important;
+    }
+    #watch7-user-header {
+        background: #222222 !important;
+        padding-right: 18px !important;
+        border-left: 1px solid #2d2d2d !important;
+        border-right: 1px solid #2d2d2d !important;
+    }
+    #watch7-sidebar {
+        background: #222222 !important;
+    }
+    #watch7-action-buttons {
+        border-color: #2d2d2d !important;
+    }
+    #watch7-action-panels {
+        border-color: #2d2d2d !important;
+    }
+    .guide-section-separator {
+        border-color: #2d2d2d !important;
+    }
+    .guide-item {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+    }
+    .guide-item:hover {
+        color: #859c81 !important;
+        background: #222222 !important;
+    }
+    .guide-count {
+        color: #2d2d2d !important;
+    }
+    .guide-quick-filter {
+        border-color: #222222 !important;
+    }
+    .yt-uix-form-input-text {
+        color: #2d2d2d !important;
+    }
+    #eow-title {
+        color: #859c81 !important;
+    }
+    .yt-user-name {
+        color: #859c81 !important;
+        font-family: "cure.se" !important;
+        font-weight: normal !important;
+        font-size: 8pt !important;
+    }
+    .yt-user-videos {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+    }
+    #watch7-subscription-container {
+        border: none !important;
+        background: none !important;
+    }
+    .yt-uix-button-subscribe-branded {
+        background: #1b1b1b !important;
+        box-shadow: none !important;
+        color: #536751 !important;
+        border-radius: 0px !important;
+        border-color: #1b1b1b !important;
+    }
+    .yt-uix-button-subscribed-branded {
+        background: #1b1b1b !important;
+        box-shadow: none !important;
+        color: #536751 !important;
+        border-radius: 0px !important;
+        border-color: #1b1b1b !important;
+    }
+    .watch-view-count {
+        color: #536751 !important;
+    }
+    .video-extras-sparkbar-likes {
+        background: #2d2d2d !important;
+    }
+    .video-extras-sparkbar-dislikes {
+        background: #1b1b1b !important;
+        border-color: #1b1b1b !important;
+    }
+    .video-extras-likes-dislikes {
+        color: #2d2d2d !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+    }
+    .video-extras-likes-dislikes:hover {
+        color: #3d3d3d !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+    }
+    .yt-uix-button-text {
+        color: #536751 !important;
+        border-color: #222222 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .yt-uix-button-text:hover {
+        background: #222222 !important;
+        border-color: #222222 !important;
+        box-shadow: none !important;
+        color: #859c81 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #watch-uploader-info strong {
+        color: #859c81 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #watch-description {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+    }
+    #watch-description-extras .title {
+        font-weight: normal !important;
+        color: #2d2d2d !important;
+    }
+    .action-panel-content:hover a {
+        color: #859c81 !important;
+    }
+    #action-panel-addto .watch-playlists-drawer h3 {
+        color: #859c81 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .watch-playlists-drawer .playlist-addto-title-options label {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .yt-uix-form-input-select {
+        background: #222222 !important;
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+        text-shadow: none !important;
+        border-color: #222222 !important;
+    }
+    .watch-playlists-drawer ul {
+        background: #222222 !important;
+        border-color: #222222 !important;
+        box-shadow: none !important;
+    }
+    .watch-playlists-drawer li {
+        background: #222222 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+        text-shadow: none !important;
+    }
+    .watch-playlists-drawer li:hover {
+        background: #222222 !important;
+    }
+    .watch-playlists-drawer .playlist-title {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .watch-playlists-drawer .playlist-item:hover .playlist-title {
+        color: #859c81 !important;
+    }
+    .watch-playlists-drawer .playlist-public-private {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .watch-playlists-drawer .playlist-item:hover .playlist-public-private {
+        color: #859c81 !important;
+    }
+    .watch-playlists-drawer .created-at {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .watch-playlists-drawer .playlist-item:hover .created-at {
+        color: #859c81 !important;
+    }
+    #watch7-sidebar .video-list-item a .title {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #watch7-sidebar .video-list-item a:hover .title {
+        color: #859c81 !important;
+    }
+    .stat.attribution .g-hovercard {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important; 
+    }
+    .video-list .video-list-item .stat {
+        color: #2d2d2d !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important; 
+    }
+    .ytrp_rb_bg_bottom {
+        border-top: 2px solid #222222 !important;
+    }
+    .ytrp_rb_fg_like {
+        background: #2d2d2d !important;
+    }
+    .ytrp_rb_fg_dislike {
+        background: #1b1b1b !important;
+        border-color: #1b1b1b !important;
+    }
+  
+    /* REMOVE SCROLLBAR */
+    scrollbar {
+        visibility: collapse !important;
+    }
+    
+    /* REMOVE STUFF */
+    #footer-container {
+        display: none !important;
+    }
+    #search-btn {
+        display: none !important;
+    }
+    #guide-container.collapsible-guide h3 {
+        display: none !important;
+    }
+    .guide-item .thumb {
+        display: none !important;
+    }
+    .yt-uix-button-subscribe-branded .yt-uix-button-icon-wrapper {
+        display: none !important;
+    }
+    .yt-subscription-button-subscriber-count-branded-horizontal {
+        display: none !important;
+    }
+    .yt-uix-subscription-preferences-button {
+        display: none !important;
+    }
+    #ticker {
+        display: none !important;
+    }
+    #yt-masthead-dropdown {
+        display: none !important;
+    }
+    
+    /* RESIZE PLAYER */
+    #player {
+        position: absolute !important;
+        display: block !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        top: -50px !important;
+        margin-top: -100vh !important;
+        left: 0px !important;
+        padding: 0px !important;
+        z-index: 5 !important;
+    }
+    #player-api {
+        position: absolute !important;
+        display: block !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        margin-top: 0px !important;
+        left: 0px !important;
+        padding: 0px !important;
+        z-index: 5 !important;   
+    }
+    
+    /* FIX PLAYLIST CONTROLS */
+    #playlist.playlist {
+        top: -34px !important;
+        left: 0px !important;
+        position: fixed !important;
+        display: block !important;
+        z-index: 999 !important;
+        width: 100% !important;
+        border-bottom: 34px solid rgba(0,0,0,0.0) !important;
+    }
+    #playlist.playlist:hover {
+        top: 0px !important;
+        left: 0px !important;
+        position: fixed !important;
+        display: block !important;
+        z-index: 999 !important;
+        width: 100% !important;
+    }
+    #watch7-playlist-data, .watch7-playlist-bar {
+        z-index: 99 !important;
+    }
+    .watch7-playlist-bar-left {
+        float: left !important;
+        width: 100vw !important;
+        margin-right: -400px !important;
+        z-index: 999 !important;
+    }
+    .watch7-playlist-bar-right {
+        float: right !important;
+        width: 400px !important;
+        z-index: 999 !important;
+    }
+    #watch7-playlist-tray-container {
+        left: 100% !important;
+        top: 34px !important;
+        width: 400px !important;
+        margin-left: -400px !important;
+        position: fixed !important;
+    }
+    
+    /* MOVE EVERYTHING TO BELOW PLAYER */
+    #body-container {
+        position: relative !important;
+        top: 100vh !important;
+        padding: 0px !important;
+        height: 822px !important;
+    }
+    #body {
+        position: relative !important;
+        padding: 0px !important;
+    }
+    
+    /* POSITION STUFF BELOW PLAYER */
+    #page {
+        padding: 0px !important;
+    }
+    #watch7-container {
+        height: 773px !important;
+    }
+    #watch7-main-container {
+        padding-left: 185px !important;
+    }
+    #watch7-main {
+        min-width: 450px !important;
+        width: auto !important;
+        max-width: 1400px !important;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    #watch7-content {
+        min-width: 300px !important;
+        width: auto !important;
+        max-width: 1000px !important;
+    }
+    #watch7-sidebar {
+        min-width: 150px !important;
+        width: auto !important;
+        max-width: 400px !important;
+        height: 748px !important;
+        margin-bottom: 0px !important;
+        overflow: auto !important;
+    }
+    #watch7-sidebar-contents, .watch-sidebar-section, 
+    .watch-sidebar-body, #watch-related {
+        height: 750px !important;
+        margin-bottom: 0px !important;
+    }
+    .watch-sidebar-section {
+        margin-bottom: 0px !important;
+    }
+    #watch7-action-buttons {
+        padding-bottom: 4px !important;
+    }
+    #watch7-action-panels {
+        height: 600px !important;
+    }
+    #action-panel-details {
+        height: 582px !important;
+        padding-top: 18px !important;
+    }
+    #watch-description {
+        top: -18px !important;
+        left: -20px !important;
+        height: 590px !important;
+        width: auto !important;
+        padding: 5px !important;
+    }
+    #watch-description-content {
+        height: 300px !important;
+        width: auto !important;
+    }
+    #watch-description-clip {
+        height: 590px !important;
+        width: auto !important;
+        overflow: auto !important;
+    }
+    #watch-description-toggle {
+        display: none !important;
+    }
+    #watch7-action-panel-footer {
+        display: none !important;
+    }
+    #watch-discussion {
+        display: none !important;
+    }
+    html {
+        height: 100vh !important;
+        padding-bottom: 822px !important;
+    }
+    #content {
+        height: 773px !important;
+        padding: 0px !important;
+    }
+    
+    /* FIX THE GUIDE */
+    #guide-container {
+        padding: 5px !important;
+        left: 0px !important;
+        top: 0px !important;
+        height: 763px !important;
+    }
+    #guide-subscriptions-section {
+        margin-top: 4px !important;
+    }
+    .guide-channels-list {
+        height: auto !important;
+        max-height: 485px !important;
+        padding-bottom: 3px !important;
+    }
+    .guide-section-separator {
+        position: relative !important;
+        left: -5px !important;
+        width: 185px !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+    #watch-context-container {
+        display: none !important;
+    }
+    
+}
