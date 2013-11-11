@@ -20,7 +20,7 @@ The video player has been changed in size so that it takes up the whole browser 
 
 Playlist controls are avalible when you hover over the upper most part of the browser window. (Sometimes when you try to open them over the video it can be a bit weird).
 
-Comments have been removed since I myself don't see any need of having them.
+Comments have been removed since I myself don't see any need of having them and google recently made them even worse.
 
 The stuff below the video are set at a fixed height and the footer has been removed.
 
