@@ -5,7 +5,7 @@ Youtube CSS is right now only for the watch page.
 
 The colours can easily be changed to something else they have their own section at the top to make it simple.
 
-To be used with stylish. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=external-userstyleshome) [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+To be used with stylish. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=external-userstyleshome) | [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 
 It's using the font cure.se so please download it before trying this skin.
 
