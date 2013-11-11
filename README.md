@@ -47,6 +47,6 @@ To come in the future
 
 -Skinning more on hover stuff
 
--Fixing bugs
-
 -Skinning the rest of youtube
+
+-Fixing bugs
