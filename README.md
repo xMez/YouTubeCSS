@@ -7,7 +7,7 @@ The colours can easily be changed to something else they have their own section 
 
 To be used with stylish. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=external-userstyleshome) | [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 
-It's using the font cure.se so please download it before trying this skin.
+It's using the font cure.se so please download it before trying this skin or change the font in the css file.
 
 If you want options such as auto 1080p/720p, hiding annotations and hiding video controls I would suggest that you get [YouTube HD Lite Revived](https://userscripts.org/scripts/show/124528)
 
