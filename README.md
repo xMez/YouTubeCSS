@@ -34,9 +34,15 @@ To come in the future
 ==========
 
 -Custom youtube logo
+
 -Custom icons
+
 -Better layout for smaller screens
+
 -Dimming thumbnails when they are not hovered
+
 -Skinning more on hover stuff
+
 -Fixing bugs
+
 -Skinning the rest of youtube aswell
