@@ -1,0 +1,157 @@
+@-moz-document url-prefix(http://www.youtube.com/watch),
+url-prefix(https://www.youtube.com/watch)
+{
+    /* COLORS & FONTS */
+    body {
+        background: #222222 !important;
+    }
+    #mh {
+        padding: 0 4px 0px 4px !important;
+        border: 2px solid #2d2d2d !important;
+        border-top: none !important;
+    }
+    #qe {
+        border-color: #2d2d2d !important;
+        background: #1b1b1b !important;
+    }
+    input {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #sb {
+        border-color: #2d2d2d !important;
+        background: #1b1b1b !important;
+    }
+    .ml {
+        border: none !important;
+        padding: 0px !important;
+        margin-top: 15px !important;
+    }
+    a {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    a:hover {
+        color: #859c81 !important;
+        text-decoration: none !important;
+        background: #222222 !important;
+    }
+    #vt {
+        color: #859c81 !important;
+    }
+    #ud a {
+        color: #859c81 !important;
+    }
+    .b {
+        border-color: #2d2d2d !important;
+        border-radius: 0px !important;
+        background: #1b1b1b !important;
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #vc {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #vc b {
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    #de:hover {
+        background: #222222 !important;
+    }
+    p {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .vt {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .vl a:hover .vt {
+        color: #859c81 !important;
+        text-decoration: none !important;
+    }
+    .vc {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .ul {
+        color: #536751 !important;
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+    .vl .t {
+        border: 2px solid #2d2d2d !important;
+        border-radius: 0px !important;
+        padding: 0px !important;
+        opacity: 0.5 !important;
+    }
+    .vl .t:hover {
+        opacity: 1 !important;
+    }
+    .t .tt {
+        font-family: "cure.se" !important;
+        font-size: 8pt !important;
+        font-weight: normal !important;
+    }
+
+    /* REMOVE SCROLLBAR */
+    scrollbar {
+        visibility: collapse !important;
+    }
+
+    /* REMOVE STUFF */
+    #ft {
+        display: none !important;
+    }
+    #oo {
+        display: none !important;
+    }
+
+    /* RESIZE PLAYER */
+    #p {
+        position: absolute !important;
+        top: 0px !important;
+        left: 0px !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        z-index: 99 !important;
+    }
+
+    /* MOVE EVERYTHING TO BELOW PLAYER */
+    body {
+        margin: 100vh 0 0 0 !important;
+    }
+    
+    /* POSITION STUFF BELOW PLAYER */
+    #vt {
+        text-align: center !important;
+    }
+    #ud {
+        text-align: center !important;
+    }
+    #de.extended {
+        display: block !important;
+    }
+
+    /* CUSTOM LOGO & ICONS */
+    #lg {
+        background: url("http://fc00.deviantart.net/fs70/f/2013/211/2/0/youtube_logo_by_x_mez-d6fw66m.png") no-repeat center !important;
+    }
+}

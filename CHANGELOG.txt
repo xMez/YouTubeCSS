@@ -1,0 +1,10 @@
+CHANGELOG
+
+v0.2_1
+	+ Support for feather beta
+
+v0.2
+	First official release
+
+v0.1
+	Never avalible online
